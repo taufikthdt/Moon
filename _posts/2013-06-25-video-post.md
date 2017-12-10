@@ -14,5 +14,5 @@ comments: true
 Ini adalah video official Profile uin suska riau sumber : youtube
 
 {% highlight html %}
-<iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="//www.youtube.com/watch?v=lIWRY8gQhUQ" frameborder="0"> </iframe>
 {% endhighlight %}

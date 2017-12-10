@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "A Post with Images"
-date: 2013-05-22
-excerpt: "Examples and code for displaying images in posts."
+title: "My photos"
+date: 2017-12-11
+excerpt: "ini kumpulan foto jilit 1."
 tags: [sample post, images, test]
 comments: true
 ---

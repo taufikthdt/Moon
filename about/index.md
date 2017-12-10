@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Theme
+title: About Me
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
@@ -8,17 +8,13 @@ comments: false
     
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Biodata
+* Nama              : Taufik Hidayat
+* Nim               : 1145301760
+* Jurusan           : Sistem informasi
+* Fakultas          : Sains dan teknologi
+* Universiitaas     : UIN SUSKA RIAU
+
 
 ## Preview
 
@@ -28,7 +24,7 @@ comments: false
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+See a Web [Sistem informasi](http://Sif.uin-suska.ac.id) or Web [Uin Suska Riau](http://uin-suska.ac.id).
 
 ## Getting Started
 

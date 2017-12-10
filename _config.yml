@@ -1,6 +1,6 @@
 # Site
 title:              Taufik hidayat
-bio:                'Mahasiswa Sistem Informasi Fakultas Sains dan Teknologi UIN SUSKA RIAU <br>http://sif.uin-suska.ac.id/ http://uin-suska.ac.id/</br>'
+bio:                'Mahasiswa Sistem Informasi Fakultas Sains dan Teknologi UIN SUSKA RIAU '
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
@@ -62,6 +62,7 @@ youtube-channel:    UCUxwYjfY8PPs-mB0gusSqYA?view_as=subscriber
 #xmpp:              username@server.com
 #hackernews:        username                
 #Gems
+<br>http://sif.uin-suska.ac.id/ http://uin-suska.ac.id/</br>
 
 gems:
   - jekyll-mentions

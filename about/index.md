@@ -1,5 +1,5 @@
 ---
-layout: Profile
+layout: page
 title: Profile
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21

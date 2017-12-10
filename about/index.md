@@ -14,8 +14,8 @@ comments: false
 
 ## Preview
 {% capture images %}
-<a href="https://uin-suska.ac.id/wp-content/uploads/2015/09/Perpustakaan-660x330.jpg">
-<img src="https://fst.uin-suska.ac.id/wp-content/uploads/2015/09/gerbang-uin-copy.jpg"></a>
+href="https://uin-suska.ac.id/wp-content/uploads/2015/09/Perpustakaan-660x330.jpg">
+<img src="https://fst.uin-suska.ac.id/wp-content/uploads/2015/09/gerbang-uin-copy.jpg">
 https://interclass.files.wordpress.com/2011/07/uin-suska.jpg
 {% endcapture %}
 

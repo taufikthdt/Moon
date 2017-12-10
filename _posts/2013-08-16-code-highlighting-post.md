@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Syntax Highlighting Post
+title: My University
 date: 2013-08-16
-excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
+excerpt: "photo my university."
 tags: [sample post, code, highlighting]
 comments: true
 ---

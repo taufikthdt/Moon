@@ -62,7 +62,8 @@ youtube-channel:    UCUxwYjfY8PPs-mB0gusSqYA?view_as=subscriber
 #xmpp:              username@server.com
 #hackernews:        username                
 #Gems
-
+<a class="btn zoombtn" href="{{ site.url }}/About">
+                         Profile
 gems:
   - jekyll-mentions
   - jekyll-feed

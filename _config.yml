@@ -57,14 +57,13 @@ youtube-channel:    UCUxwYjfY8PPs-mB0gusSqYA?view_as=subscriber
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
-#codepen:           username
-#keybase:           username
+codepen:           username
+keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-
+url:                http://uin-suska.ac.id/                    
 # Gems
-<br>http://sif.uin-suska.ac.id/
-http://uin-suska.ac.id/</br>
+
 gems:
   - jekyll-mentions
   - jekyll-feed

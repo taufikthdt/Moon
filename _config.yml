@@ -9,10 +9,6 @@ background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://taufikthdt.github.io/
-title:              SISTEM INFORMASI
-url:                http://sif.uin-suska.ac.id/
-title:              UIN SUSKA RIAU
-url:                http://uin-suska.ac.id/
 
 # Jekyll
 permalink:          /:title/

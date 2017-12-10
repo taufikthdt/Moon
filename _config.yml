@@ -1,6 +1,8 @@
 # Site
 title:              Taufik hidayat
 bio:                'Mahasiswa Sistem Informasi Fakultas Sains dan Teknologi UIN SUSKA RIAU'
+http://sif.uin-suska.ac.id/
+http://uin-suska.ac.id/
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
@@ -30,8 +32,8 @@ disqus_shortname:   taylantatli
 
 # Social
 # if you don't have any of social below, comment the line.
-google:             
-plus:              u/0/113212831333681330513
+#google:             
+#plus:              
   #analytics:
   #verify:
   #ad-client:
@@ -42,7 +44,7 @@ email:              taufikhidayatasus@gmail.com
 facebook:           taufik.jc             
 github-url:         taufikthdt
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+#linkedin:          taufik-hidayat-80034411b/
 #xing:              username
 #instagram:          username
 #lastfm:            username

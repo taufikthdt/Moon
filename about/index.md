@@ -24,7 +24,7 @@ comments: false
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a Web [Sistem informasi](http://Sif.uin-suska.ac.id) or Web [Uin Suska Riau](http://uin-suska.ac.id).
+See a Web [Sistem informasi](http://Sif.uin-suska.ac.id) or Web [Uin Suska Riau](https://uin-suska.ac.id).
 
 ## Getting Started
 

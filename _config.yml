@@ -62,7 +62,7 @@ youtube-channel:    UCUxwYjfY8PPs-mB0gusSqYA?view_as=subscriber
 #xmpp:              username@server.com
 #hackernews:        username                
 #Gems
-<br>http://sif.uin-suska.ac.id/ http://uin-suska.ac.id/</br>
+<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
 gems:
   - jekyll-mentions

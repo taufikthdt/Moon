@@ -30,7 +30,7 @@ disqus_shortname:   taylantatli
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
+google:             u/0/113212831333681330513
   #plus:            #username
   #analytics:
   #verify:
@@ -38,22 +38,22 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
+#twitter:            username
 facebook:           taufik.jc
-github-url:         username
+#github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
-#youtube-channel:   channel
+youtube-channel:   channel          channel/UCUxwYjfY8PPs-mB0gusSqYA?view_as=subscriber
 #soundcloud:        username
 #weibo:             username
 #flickr:            username

@@ -37,7 +37,7 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              taufikhidayatasus@gmail.com
+#email:              
 #twitter:            username
 facebook:           taufik.jc             
 github-url:         taufikthdt
@@ -57,12 +57,11 @@ youtube-channel:    UCUxwYjfY8PPs-mB0gusSqYA?view_as=subscriber
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
-codepen:           username
-keybase:           username
+#codepen:           username
+#keybase:           username
 #xmpp:              username@server.com
-#hackernews:        username
-url:                http://uin-suska.ac.id/                    
-# Gems
+#hackernews:        username                
+#Gems
 
 gems:
   - jekyll-mentions

@@ -1,6 +1,6 @@
 ---
-layout: Contact Us
-title: Contact Us
+layout: Contact
+title: Contact
 excerpt: "A List of Projects"
 comments: false
 ---

@@ -12,6 +12,4 @@ comments: false
 * Fakultas          : Sains dan teknologi
 * Universiitaas     : UIN SUSKA RIAU
 
-## Preview
-<img src="assets/img/placeholder-big.jpg"><img src="assets/img/placeholder-big.jpg">
 See a Web [Sistem informasi](http://Sif.uin-suska.ac.id) or Web [Uin Suska Riau](https://uin-suska.ac.id).
